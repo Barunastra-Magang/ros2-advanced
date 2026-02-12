@@ -24,6 +24,6 @@
 ## Turtlebot
 
 ## Video Link (Optional)
-> Format: Name_ROS2Adv_<Implementation>
-> Example: Matthew_ROS2Adv_Turtlebot
-> Extension: .mp4 files
+> - Format: Name_ROS2Adv_(Implementation)
+> - Example: Matthew_ROS2Adv_Turtlebot
+> - Extension: .mp4 files
